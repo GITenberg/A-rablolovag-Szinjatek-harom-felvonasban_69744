@@ -1,0 +1,31 @@
+_repo: A-rablolovag-Szinjatek-harom-felvonasban_69744
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Biró, Lajos
+    alias: Biro, Lajos
+    birthdate: 1880
+    deathdate: 1948
+    gutenberg_agent_id: '51735'
+    url: http://www.gutenberg.org/2009/agents/51735
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/B%C3%ADr%C3%B3_Lajos_(%C3%ADr%C3%B3)
+    - https://en.wikipedia.org/wiki/Lajos_B%C3%ADr%C3%B3
+description: ''
+gutenberg_issued: '2023-01-08'
+identifiers:
+  gutenberg: '69744'
+language: hu
+pgterms:marc905: 20221217232611bir
+pgterms:marc906: '1912'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: 'Hungary: Singer és Wolfner,1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A rablólovag: Szinjáték három felvonásban'
+url: http://www.gutenberg.org/ebooks/69744
